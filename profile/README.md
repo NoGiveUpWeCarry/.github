@@ -4,30 +4,11 @@
 
 > 개발자, 아티스트, 디자이너를 위한 소셜 커뮤니티
 
-- 배포 URL:
-
-- 테스트 아이디: `test`
-
-- 테스트 비밀번호: `12341234`
+- 배포 URL: 
 
 <br />
 
 ## 프로젝트 소개
-- `FlavorPath`는 사용자들에게 **맞춤형 식당 추천 경험**를 제공하는 데 초점을 맞춘 식당 탐색 애플리케이션입니다.
-- 사용자는 한식, 중식, 디저트 등 선호하는 카테고리를 선택해 해당 카테고리에 가장 적합한 식당 정보를 빠르게 찾을 수 있습니다.
-- 또한, 리뷰 기능을 통해 사용자들이 직접 작성한 신뢰도 높은 후기와 평가를 확인할 수 있어 식당 선택에 도움을 줍니다.
-- 간단한 인터페이스와 직관적인 사용성을 갖춰 사용자가 원하는 식당 정보를 빠르고 정확하게 제공하여 최적의 외식 경험을 제공합니다.
-
-<br />
-
-## 프로젝트 실행하기
-```
-$ git clone https://github.com/FlavorPath/front.git
-$ pnpm install
-$ pnpm run dev
-```
-
-<br />
 
 ## 개발 환경
 ### 프론트엔드
@@ -55,39 +36,6 @@ $ pnpm run dev
 <br />
 
 ## 폴더 구조
-```
-src/
-├── api/                 # API 호출 및 관련 로직
-├── assets/              # 이미지 및 정적 자산
-├── fonts/               # 폰트 파일
-├── hooks/               # 커스텀 훅
-├── mocks/               # Mock 데이터
-├── pages/               # 페이지 컴포넌트
-├── routes/              # 라우트 설정
-├── store/               # 상태 관리 관련 코드
-    ├── queries
-    └── stores
-├── styles/              # 스타일 관련 파일
-├── ui/                  # UI 컴포넌트
-    ├── components
-    └── view
-        ├── atom
-        ├── molecule
-        └── template
-└── utils/               # 유틸리티 함수 및 모듈
-```
-
-```
-backend
-├── controllers          # 각 기능별 API들을 모아둔 디렉토리
-├── middlewares          # 인증 관련 및 S3업로드를 연결하는 미들웨어
-├── routes               # 각 기능별 API들을 연결하는 라우팅 파일
-├── utils                # DB 설정 및 S3 사용을 위한 셋팅
-├── app.js
-└── server.js 
-```
-- **[데이터베이스 설계 설명](https://clean-indigo-57d.notion.site/DB-14d382bd5b8e80f4b9a4f6bf71df047f?pvs=4)**
-<br />
 
 ## 트러블슈팅
 - **[라벨에 의한 마커패칭시 화면 깜빡임 문제 해결](https://graceful-dresser-be9.notion.site/Feat-prefetching-14c011daa17b80568ad5df102a471f33)** 
@@ -96,25 +44,12 @@ backend
 <br />
 
 ## 주요 기능
-| 회원가입/로그인 페이지 | 홈페이지 | 상세페이지 |
-| -- | -- | -- |
-|<img src="https://github.com/user-attachments/assets/2ffde60d-3cb9-4230-96aa-fa4c87c71df1" width="200" /> | <img src="https://github.com/user-attachments/assets/49f984da-0341-4bb5-8cae-b9828a4926b7" width="200" /> | <img src="https://github.com/user-attachments/assets/f918fb2d-3708-4d94-a235-3f6b14eba04d" width="200" /> |
-
-| 검색페이지 | 스크랩페이지 | 마이페이지 |
-| -- | -- | -- |
-| <img src="https://github.com/user-attachments/assets/30ce62fc-43bf-47b0-9f5a-77370e0ae80e" width="200" /> |<img src="https://github.com/user-attachments/assets/b7281fce-b201-4056-b697-3905e6fd5151" width="200" /> |<img src="https://github.com/user-attachments/assets/7205e2f3-db5e-46e0-9ba8-37ba33a8cc30" width="200" />|
 
 <br />
 
 ## 향후 개선 사항
- - 로딩 에러 처리의 개선 사항
- - 관리자 페이지 생성
- - 백엔드에서의 사진 관리
- - 리프레쉬 토큰과 로그아웃 구현
+
 <br />
 
-## FlavorPath 팀
-| [한태동](https://github.com/HANTAEDONG) | [심채윤](https://github.com/chaeyun-sim) | [조성민](https://github.com/Ss0Mae) | [정동현](https://github.com/peppertown) |
-| -- | -- | -- | -- |
-| <img src="https://avatars.githubusercontent.com/u/132195232?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/111689342?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/80831228?v=4" width="120" />  | <img src="https://avatars.githubusercontent.com/u/142657661?v=4" width="120" />  |
-| <p align="center">FE</p> | <p align="center">FE</p> | <p align="center">BE</p> | <p align="center">BE</p> |
+## PAD 팀
+
