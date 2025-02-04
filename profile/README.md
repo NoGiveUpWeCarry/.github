@@ -1,12 +1,6 @@
-## Hi there 👋
+# PAD
 
-<!--
+<img width="2301" alt="Cover Image (1)" src="https://github.com/user-attachments/assets/83407701-ccbd-40d5-a12e-9cde365ad425" />
 
-**Here are some ideas to get you started:**
+> 개발자, 아티스트, 디자이너를 위한 소셜 커뮤니티
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
