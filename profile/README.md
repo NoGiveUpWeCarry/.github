@@ -1,6 +1,7 @@
 # PAD
 
-![Group 3 (1)](https://github.com/user-attachments/assets/7e3deaab-638f-419e-9c3a-a6beb3ab21b7)
+![Group 4](https://github.com/user-attachments/assets/5cff3404-5c4c-429b-81bb-07d5d0fc8283)
+
 
 > 개발자, 아티스트, 디자이너를 위한 소셜 커뮤니티
 
