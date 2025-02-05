@@ -48,13 +48,14 @@
   <br>
 ✅ **프로젝트 생성 & 지원** – 기획자가 팀원을 모집하고, 개발자·디자이너가 지원 가능
 <br>
- <img src="https://github.com/user-attachments/assets/c51aafda-5a82-4f14-b675-4407814b1ecd" width="70%" />
-<br>
+<img src="https://github.com/user-attachments/assets/c51aafda-5a82-4f14-b675-4407814b1ecd" width="70%" />
+<br><br>
 ✅ **네트워킹 & 피드 공유** – 자유롭게 피드를 작성하고, 관심 있는 주제로 소통 가능  
-<br>
- <img src="[https://github.com/user-attachments/assets/c51aafda-5a82-4f14-b675-4407814b1ecd](https://github.com/user-attachments/assets/acc4d1b2-7052-4360-9556-70ef12210b0b)" width="70%" />
-<br>
-✅ **실시간 채팅 & 알림을 통한 협업** – 웹소켓과 sse 기반으로 원활한 커뮤니케이션 지원  
+<br><br>
+<img src="https://github.com/user-attachments/assets/acc4d1b2-7052-4360-9556-70ef12210b0b" width="70%" />
+<br><br>
+✅ **실시간 채팅 & 알림을 통한 협업** – 웹소켓과 SSE 기반으로 원활한 커뮤니케이션 지원  
+
 
 ## 개발 환경
 ### 프론트엔드
