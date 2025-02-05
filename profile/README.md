@@ -26,11 +26,6 @@
 더 이상 흩어진 툴을 사용할 필요 없이, 한 곳에서 **완벽한 협업 경험**을 제공합니다.
 
 ### 💡 **우리의 차별점**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0eb81def-136e-4cc0-b923-0c668d416f74" width="49%" />
-  <img src="https://github.com/user-attachments/assets/9015f7c0-1a16-46d3-b35b-8d935817e826" width="49%" />
-</p>
-
 ### ✅ **프로젝트 매칭 시스템**
 - 개발자와 디자이너가 **자신의 기술 스택과 디자인 스타일**을 입력하면,  
   **최적의 프로젝트를 찾을 수 있습니다.** 
@@ -48,8 +43,15 @@
 
 ## 주요 기능 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0eb81def-136e-4cc0-b923-0c668d416f74" width="49%" />
+  <img src="https://github.com/user-attachments/assets/9015f7c0-1a16-46d3-b35b-8d935817e826" width="49%" />
+</p>
+
 ✅ **프로젝트 생성 & 지원** – 기획자가 팀원을 모집하고, 개발자·디자이너가 지원 가능  
+<br />
 ✅ **네트워킹 & 피드 공유** – 자유롭게 피드를 작성하고, 관심 있는 주제로 소통 가능  
+<br />
 ✅ **실시간 채팅 & 협업** – 웹소켓 기반으로 원활한 커뮤니케이션 지원  
 
 ## 개발 환경
