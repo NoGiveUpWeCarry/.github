@@ -100,24 +100,12 @@
 ## 서비스/개발 다이어그램
 ![PAD drawio (4)](https://github.com/user-attachments/assets/dcc57dde-077a-44e5-9a3f-74ce7b9f648a)
 
-## 폴더 구조
-
 ## 트러블슈팅
 ### 🧐채팅 개선 경험
 [**채팅 읽음 처리 기능을 어떻게 개선할 수 있을까?**](https://clean-indigo-57d.notion.site/190382bd5b8e80359927f3df672c4cfe?pvs=4)
 
 ### 🚀SSE 알림 개선 경험
 [**접속중이 아닐 때 알림 수신 문제**](https://clean-indigo-57d.notion.site/SSE-191382bd5b8e801487d9c37c4c3c1de4?pvs=4)
-  
-<br />
-
-## 주요 기능
-
-<br />
-
-## 향후 개선 사항
-
-<br />
 
 ## PAD 팀
 | [한태동](https://github.com/HANTAEDONG) | [심채윤](https://github.com/chaeyun-sim) | [이재혁](https://github.com/JaeHye0k) | [이찬](https://github.com/dlcks0601) | [조성민](https://github.com/Ss0Mae) | [정동현](https://github.com/peppertown) |
