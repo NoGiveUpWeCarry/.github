@@ -47,7 +47,6 @@
   <img src="https://github.com/user-attachments/assets/0eb81def-136e-4cc0-b923-0c668d416f74" width="49%" />
   <img src="https://github.com/user-attachments/assets/9015f7c0-1a16-46d3-b35b-8d935817e826" width="49%" />
 </p>
-
 ✅ **프로젝트 생성 & 지원** – 기획자가 팀원을 모집하고, 개발자·디자이너가 지원 가능  
 <br />
 
